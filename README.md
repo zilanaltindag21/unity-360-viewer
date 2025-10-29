@@ -1,5 +1,5 @@
 
-360° Image Viewer in Unity (WebGL Compatible)
+## 360° Image Viewer in Unity (WebGL Compatible)
 
 This project allows users to view 360° panoramic images interactively in Unity and deploy the experience as a WebGL-based website. It supports mouse-based navigation and is designed for lightweight, immersive viewing.
 
